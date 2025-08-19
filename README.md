@@ -45,20 +45,11 @@ This project applies **classification and regression models** to recommend crops
 
 ## 📷 Sample Visualizations  
 
-<p align="center">
   <img src="https://github.com/Amruthakshaji2002/Crop-Recommendation-Yield-Prediction/blob/main/prediction5.png" width="350">
   <img src="https://github.com/Amruthakshaji2002/Crop-Recommendation-Yield-Prediction/blob/main/prediction6.png" width="350">
-</p>
-
-<p align="center">
   <img src="https://github.com/Amruthakshaji2002/Crop-Recommendation-Yield-Prediction/blob/main/prediction7.png" width="350">
   <img src="https://github.com/Amruthakshaji2002/Crop-Recommendation-Yield-Prediction/blob/main/prediction8.png" width="350">
-</p>
-
-<p align="center">
-  <img src="https://github.com/Amruthakshaji2002/Crop-Recommendation-Yield-Prediction/blob/main/prediction9.png" width="400">
-</p>
-
+  <img src="https://github.com/Amruthakshaji2002/Crop-Recommendation-Yield-Prediction/blob/main/prediction9.png" width="350">
 ---
 
 ## 🔮 Future Scope  
