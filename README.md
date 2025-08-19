@@ -44,8 +44,8 @@ This project applies **classification and regression models** to recommend crops
 ---
 
 ## 📷 Sample Visualizations  
-<img src="images/crop_prediction.png" width="400">  
-<img src="images/yield_prediction.png" width="400">  
+<img src="[images/crop_prediction.png](https://github.com/Amruthakshaji2002/Crop-Recommendation-Yield-Prediction/blob/main/prediction5.png)" width="400">  
+<img src="[images/yield_prediction.png](https://github.com/Amruthakshaji2002/Crop-Recommendation-Yield-Prediction/blob/main/prediction5.png)" width="400">  
 
 *(Place your graphs/charts from the report into an `images/` folder in this repo)*  
 
